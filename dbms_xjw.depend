@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1542957501 source:e:\个人资料\学习\2017-2018-2-数据库系统\课程设计\dbms_xjw\main.cpp
+	<bits/stdc++.h>
+	"userlogin.h"
+	"class.h"
+	"create.h"
+	"insert.h"
+	"update.h"
+	"delete.h"
+	"select.h"
+	"grant.h"
+	"revoke.h"
+	"help.h"
+
+1514376733 e:\个人资料\学习\2017-2018-2-数据库系统\课程设计\dbms_xjw\userlogin.h
+	<string.h>
+	<iostream>
+	<fstream>
+
+1542957495 e:\个人资料\学习\2017-2018-2-数据库系统\课程设计\dbms_xjw\class.h
+
+1542934402 e:\个人资料\学习\2017-2018-2-数据库系统\课程设计\dbms_xjw\create.h
+	"select.h"
+
+1514446470 e:\个人资料\学习\2017-2018-2-数据库系统\课程设计\dbms_xjw\select.h
+
+1542850093 e:\个人资料\学习\2017-2018-2-数据库系统\课程设计\dbms_xjw\insert.h
+
+1542801396 e:\个人资料\学习\2017-2018-2-数据库系统\课程设计\dbms_xjw\update.h
+
+1514445637 e:\个人资料\学习\2017-2018-2-数据库系统\课程设计\dbms_xjw\delete.h
+
+1514375521 e:\个人资料\学习\2017-2018-2-数据库系统\课程设计\dbms_xjw\grant.h
+
+1542957496 e:\个人资料\学习\2017-2018-2-数据库系统\课程设计\dbms_xjw\revoke.h
+
+1542957498 e:\个人资料\学习\2017-2018-2-数据库系统\课程设计\dbms_xjw\help.h
+
